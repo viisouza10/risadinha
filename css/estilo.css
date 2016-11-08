@@ -1,0 +1,11 @@
+@charset:"UTF-8";
+
+.logo{
+    width: 13%;
+    position: absolute;
+}
+
+#banner{
+    color: black;
+    font-size: -webkit-xxx-large;
+}

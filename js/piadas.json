@@ -1,0 +1,74 @@
+[
+   { 
+     "id":1,
+     "titulo": "Vai doer ?",
+     "piada": "<p>Durante uma consulta médica o paciente pergunta:</p><p>- Doutor, vai doer? </p><p>O médico responde: </p><p>- Vai sim, mas até amanhã passa! </p><p>E o paciente diz: </p><p>- Então amanhã eu volto! </p>",
+    "imagem":"",
+    "categoria": "Médico"
+    },
+    {
+     "id":2,
+     "titulo": "Versão do Manoel",
+     "piada": "<p>- Conte-me, Manoel, a sua versão dos fatos. - diz o juiz.</p><p>- Pois, foi assim: estava eu na cozinha com a faca a cortar o presunto. Nesse momento entrou a minha mulher, tropeçou, caiu sobre a faca e espetou-se no peito.</p><p>- Sim... - diz o juiz - Continue...</p><p>- Pois foi assim... sete vezes seguidas</p>",
+    "imagem":"",
+    "categoria": "Português"
+    },
+     {
+     "id":3,
+     "titulo": "A feia na festa",
+     "piada": "<p>O rapaz estava a horas curtindo uma festa. Observando a feiinha, que o tempo todo estava ali, sentada, ele se aproxima e diz:</p><p>-Quer dançar?</p><p>A feiinha toda animada:</p><p>-Quero sim!</p><p>- Então vai, que eu quero é sentar!</p>",
+    "imagem":"",
+    "categoria": "Mancada"
+    },
+    {
+     "id":4,
+     "titulo": "Novo aparelho auditivo",
+     "piada": "<p>Após testar por uma semana o novo aparelho auditivo, o velho senhor retorna ao médico.</p><p>- O senhor está gostando do aparelho? - pergunta o médico</p><p>- Está funcionando que é uma maravilha - responde o velho.</p><p>O médico pergunta:</p><p>- E o que a sua família achou de o senhor voltar a escutar?</p><p>- E o velho responde:</p><p>- - Bem, eu ainda não contei para eles, mas já mudei meu testamento três vezes.</p>",
+    "imagem":"",
+    "categoria": "Médico"
+    },
+    {
+     "id":5,
+     "titulo": "O atropelamento da velhinha",
+     "piada": "<p> O português andava de carro e atropelou uma velhinha que atravessava a rua. O guarda de trânsito pergunta:</p><p>- Por que você não buzinou para alertar a velhinha?</p><p>E o português explica:</p><p>O médico pergunta:</p><p>- É que eu não queria assustá-la.</p>",
+    "imagem":"",
+    "categoria": "português"
+    },
+     {
+     "id":6,
+     "titulo": "A situação da gripe no Brasil ",
+     "piada": "<p>Um repórter pergunta ao Ministro da Saúde:</p><p>- Qual a situação atual da gripe no Brasil?</p><p>- Empatada - responde o ministro.</p><p>- Como assim? - questiona o repórter.</p><p>E o ministro explica:</p><p>- H1 N1!</p>",
+    "imagem":"",
+    "categoria": "Saúde"
+    },
+    {
+     "id":7,
+     "titulo": "Trafico de órgãos",
+     "piada": "<p>A mulher pergunta ao homem:</p><p>O homem responde:</p><p>- Tráfico órgãos.</p><p>A mulher espantada diz:</p><p>- Você não tem coração?</p><p>O homem responde:</p><p>- Isso foi uma encomenda ou uma crítica?</p>",
+    "imagem":"",
+    "categoria": "Saúde"
+    },
+    {
+     "id":8,
+     "titulo": "Mensagem para ex-namorado",
+     "piada": "<p>A garota manda uma mensagem para seu ex-namorado:</p><p>- E aí tudo bem com você?</p><p>O ex responde:</p><p>- Não, estou com frio, com fome e sem dinheiro. Só falta você aqui...</p><p>Pra te fazer companhia?</p><p>- Não, pra completar a tragédia!</p><p>kkkkkkkk</p>",
+    "imagem":"",
+    "categoria": "Ex"
+    },
+    {
+     "id":9,
+     "titulo": "Vontade de comer chocolate",
+     "piada": "<p>O menino estava com muita vontade de comer um chocolate. Levantou-se da cama para ir falar com sua mãe, que estava cozinhando para a ceia de Natal. Seu filho falou:</p><p>- Mamãe, mamãe, me dê um chocolate.</p><p>Sua mãe respondeu:</p><p>- Pegue, está na geladeira</p><p>Seu filho:</p><p>Ela respondeu:</p><p>- Isso foi uma encomenda ou uma crítica?</p><p>- Sem mãos sem chocolates.</p>",
+    "imagem":"",
+    "categoria": "Humor negro"
+    },
+
+    {
+     "id":10,
+     "titulo": "Desejo de morar sozinha ",
+     "piada": "<p>- Mamãe, papai, a partir de hoje quero morar sozinha. O que acham?</p><p>- Puxa, minha filha, achamos ótimo!</p><p>Que bom... Suas malas já estão lá fora!</p>",
+    "imagem":"",
+    "categoria": "Patricinha"
+    } 
+]
+
