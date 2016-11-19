@@ -9,3 +9,9 @@
     color: black;
     font-size: -webkit-xxx-large;
 }
+
+.item-piada{
+	  flex-flow: column wrap; /* Shorthand – you could use ‘flex-direction: column’ and ‘flex-wrap: wrap’ instead */
+  justify-content: flex-start;
+  align-items: flex-start;
+}
